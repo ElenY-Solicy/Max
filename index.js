@@ -25,3 +25,4 @@ function maxProfit(arr) {
 }
 
 maxProfit(arr);
+
